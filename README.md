@@ -1,5 +1,5 @@
 # AugReality
-Project for Masters Augmented Reality course using PCL and Open Scene Graph
+Project using PCL and Open Scene Graph
 
  -Remove everything from build folders;
  
