@@ -1,0 +1,3 @@
+/home/p3d/Desktop/Pratical_Project_RMA/AR4RGB/Build/CMakeFiles/rebuild_cache.dir
+/home/p3d/Desktop/Pratical_Project_RMA/AR4RGB/Build/CMakeFiles/ar4rgbd.dir
+/home/p3d/Desktop/Pratical_Project_RMA/AR4RGB/Build/CMakeFiles/edit_cache.dir
